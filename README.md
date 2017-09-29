@@ -5,4 +5,4 @@ Open-source &amp; Open-hardware EV drive project.
 Current state `Define requirements`.
 
 ## More...
-See the [Wiki](./wiki) page for more info.
+See the [Wiki](../../wiki) page for more info.
